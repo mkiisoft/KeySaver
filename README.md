@@ -33,6 +33,10 @@ if(KeySaver.isExist(this, "your-key")){
             Toast.makeText(this, "hello world!", Toast.LENGTH_SHORT).show();
         }
 ```
+## Get Data
+``` 
+KeySaver.getStringSavedShare(this, "your-key")
+```
 ## Remove Data
 ``` 
 KeySaver.removeKey(this, "your-key");
