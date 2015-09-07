@@ -6,6 +6,12 @@ Light & Fast Shared Preference. Only 2Kb
 
 KeySaver is a data store simplifier to save, check and remove keys and values with a single line.
 
+# Install
+
+## Android Studio:
+
+Save the .jar file, copy in your "libs" folder (normally inside "app" folder) > Right Click your project > Open Module Settings > over "app" go to Dependencies tab and hit the + button > Select "File Dependency" and Select "KeySaver.jar" > OK to finish
+
 # Changelog
 
 First release v.1.0
