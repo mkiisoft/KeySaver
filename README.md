@@ -23,10 +23,11 @@ First release v.1.0
 # Features:
 
 - Save **boolean, int** and **String**
-- Check if value exist or not
+- Check if value exist or not with one line
 - Remove key quick and clean
 - Get values with one line without parse methods
 - Get a list of saved keys/values
+- Works with Activity and any Context (Fragments, Services, etc)
 - Extra: Get **IMEI** and **DeviceID**
 
 # Howt to use:
@@ -52,7 +53,3 @@ KeySaver.getIntSavedShare(this, "your-key")
 ``` 
 KeySaver.removeKey(this, "your-key");
 ```
-
-# NOTE:
-
-It works with Activity and Context. Save, Check and Remove anywhere!
