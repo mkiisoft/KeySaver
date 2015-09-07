@@ -22,12 +22,12 @@ First release v.1.0
 
 # Features:
 
-- Save **boolean, int and String**
+- Save **boolean, int** and **String**
 - Check if value exist or not
 - Remove key quick and clean
 - Get values with one line without parse methods
 - Get a list of saved keys/values
-- Extra: Get IMEI and DeviceID
+- Extra: Get **IMEI** and **DeviceID**
 
 # Howt to use:
 
