@@ -10,7 +10,7 @@ KeySaver is a data store simplifier to save, check and remove keys and values wi
 
 ## Android Studio:
 
-Save the .jar file, copy in your "libs" folder (normally inside "app" folder) > Right Click your project > Open Module Settings > over "app" go to Dependencies tab and hit the + button > Select "File Dependency" and Select "KeySaver.jar" > OK to finish
+Save **KeySaver.jar** file, copy in your "libs" folder (normally inside "app" folder) > Right Click your project > Open Module Settings > over "app" go to Dependencies tab and hit the + button > Select "File Dependency" and Select "KeySaver.jar" > OK to finish
 
 # Changelog
 
