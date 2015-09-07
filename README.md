@@ -19,3 +19,11 @@ if(KeySaver.isExist(this, "your-key")){
             Toast.makeText(this, "hello world!", Toast.LENGTH_SHORT).show();
         }
 ```
+## Remove Data
+``` 
+KeySaver.removeKey(this, "your-key");
+```
+
+# NOTE:
+
+It works with Activity and Context. Save, Check and Remove anywhere!
