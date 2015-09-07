@@ -46,9 +46,7 @@ if(KeySaver.isExist(this, "your-key")){
 ## Get Data
 ``` 
 KeySaver.getStringSavedShare(this, "your-key");
-
 KeySaver.getBoolSavedShare(this, "your-key");
-
 KeySaver.getIntSavedShare(this, "your-key");
 ```
 ## Remove Data
