@@ -30,7 +30,7 @@ First release v.1.0
 - Works with Activity and any Context (Fragments, Adapters, etc)
 - Extra: Get **IMEI** and **DeviceID**
 
-# Howt to use:
+# How to use:
 
 ## Save Data
 ``` 
